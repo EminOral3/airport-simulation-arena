@@ -53,11 +53,3 @@ From the generated Arena simulation reports, the system performed with the follo
 * **Statistical Analysis:** Input Analyzer, Chi-Square Goodness-of-Fit Testing
 * **Data Processing:** MS Excel / CSV Analysis
 
----
-
-## 👥 Project Contributors
-* Gülşah Ölmez
-* Muhammed Emin Oral
-* Selin Eraslan
-* Serhan Karpuz
-* *Advisor:* Davood Shiri
