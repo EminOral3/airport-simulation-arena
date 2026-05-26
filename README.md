@@ -47,6 +47,8 @@ From the generated Arena simulation reports, the system performed with the follo
 
 ---
 
+[📊 Click here to view the project presentation in your browser](Project_Presentation.pdf)
+
 ## 🛠️ Tools & Technologies Used
 
 * **Simulation Engine:** Rockwell Automation Arena
