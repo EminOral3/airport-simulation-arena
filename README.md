@@ -42,8 +42,8 @@ From the generated Arena simulation reports, the system performed with the follo
 ## 📁 Repository Structure
 
 * `/data`: Raw data files (`interarrival time.txt`, `Service Time.txt`) and statistical analysis charts (`Data Collection.csv`).
-* `/model`: The functional Rockwell Arena simulation model (`projemodelllll.doe`) and execution reports.
-* `/docs`: Detailed project report documentation and presentation slides detailing the bottleneck solutions.
+* `projemodelllll.doe`: The functional Rockwell Arena simulation model.
+* `Project Presentation`: Detailed project report documentation and presentation slides detailing the bottleneck solutions.
 
 ---
 
